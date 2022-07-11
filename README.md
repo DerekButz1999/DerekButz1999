@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DerekButz1999
+- 👋 Hi, I’m Derek
 - 👀 I’m interested in Java, Python, C++, HTML/CSS
 - 🌱 I’m currently learning C# and CSS
 - 💞️ I’m looking to collaborate on ...
