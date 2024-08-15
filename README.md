@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Derek
+- 👋 Hi, I’m Derek Fu
 - 👀 I’m interested in Java, Python, C++, HTML/CSS
-- 🌱 I’m currently learning C# and CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ and React
 - 📫 How to reach me derekbutz@gmail.com
 
 <!---
